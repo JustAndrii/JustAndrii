@@ -39,6 +39,7 @@ Command-line Task Manager built with Python and PostgreSQL.
 - Delete tasks
 - Complete tasks
 - Search tasks by ID
+- Show completed tasks
 
 👉 https://github.com/JustAndrii/task-manager  
 
