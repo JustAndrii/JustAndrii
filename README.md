@@ -48,7 +48,7 @@ Command-line Task Manager built with Python and PostgreSQL.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kolesnykandrii711&hide=stars,issues,contribs&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&icon_color=ff0000" />
+
 
 </p>
 
