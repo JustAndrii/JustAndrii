@@ -20,13 +20,27 @@
 
 ---
 
-## 💻 My Project
+## 💻 My Projects
 
-### 🔹 Python Calculator  
+### 🔹 Python Calculator
 
-Simple calculator written in Python  
+Simple calculator written in Python.
 
-👉 https://github.com/kolesnykandrii711/python-calculator  
+👉 https://github.com/JustAndrii/python-calculator
+
+### 📋 Task Manager
+
+Command-line Task Manager built with Python and PostgreSQL.
+
+✨ Features:
+- Add tasks
+- Show all tasks
+- Update tasks
+- Delete tasks
+- Complete tasks
+- Search tasks by ID
+
+👉 https://github.com/JustAndrii/task-manager  
 
 ---
 
